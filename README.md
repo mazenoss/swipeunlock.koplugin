@@ -8,13 +8,6 @@ screen with a round button on the left and the text **"Swipe to open"** on the r
 button to the right to unlock the device and go back to KOReader. Let go too early and the
 button springs back; the sleep screen stays up until you actually swipe it open.
 
-## Why
-
-KOReader can already keep the sleep screen up after a wake-up and require a gesture to dismiss
-it (`Settings → Screen → Sleep screen → Wake-up settings`), but that gesture is invisible —
-there's nothing on screen telling you what to do or showing your progress. This plugin gives
-that flow a visible, draggable control instead.
-
 ## Installation
 
 1. Download this repository (or just the `swipeunlock.koplugin` folder).
